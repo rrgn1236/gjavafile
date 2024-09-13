@@ -1,0 +1,23 @@
+Collections :-
+--> We are collecting more data .
+
+Collection it is a interface.
+it has 3 childs (or) subclass they are;
+1)Lists--interface.
+2)sets-->Interface.
+3)Ques-->interface.
+
+Lists:-  these are 4 types 
+
+i)ArrayList:- it is a class
+ii)LinkedList:-it is a class
+iii)vectors:-it is a class
+iv)Stackes:-it is a class
+
+
+
+maps:-
+
+
+
+

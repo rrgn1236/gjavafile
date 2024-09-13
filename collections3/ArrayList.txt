@@ -1,0 +1,23 @@
+-->What happend if any exception accured in program.
+-->What is Checked Exceptions and Unchecked Exceptions.
+
+try/catch
+try/catch/finally block
+imp finally block
+
+---------------
+
+throws-->I am not handling the exception calling  method need to handle the exception.
+
+userdefined exception ---My Own exception
+throws---
+
+
+----------------------
+
+collection---->interface
+
+list set quess
+
+ArrayLists Linkedlists Vectors  Stacks---->class
+

@@ -1,0 +1,12 @@
+Difference between HAshMap and LinkedHashMap.
+
+-->Hashmap worked on Hashing Technics on key.
+-->HashMap doesn't have the order.
+
+
+LinkedHashMap:-
+-->LinkedHashMap works on HashingTechnics Along with Node Strectore.
+-->LinkedHashMap is definately will follow the way You inserted.
+
+
+-->One entry consists of key and value.
